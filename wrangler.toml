@@ -1,0 +1,5 @@
+name = "seitai-homepage"
+pages_build_output_dir = "out"
+
+[build]
+command = "npm run build"
