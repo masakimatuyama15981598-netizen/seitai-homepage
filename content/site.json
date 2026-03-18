@@ -1,0 +1,106 @@
+{
+  "_comment": "このファイルはGoogleフォーム→Google Apps Script経由で自動更新されます。手動で編集することも可能です。",
+  "_lastUpdated": "2026-01-01T00:00:00Z",
+
+  "clinic": {
+    "name": "心和整体院",
+    "nameEn": "Shinwa Seitai",
+    "logoChar": "心",
+    "catchphrase": "心と身体の調和を取り戻す",
+    "description": "根本原因にアプローチし、再発しない身体づくりをサポート。完全個室のプライベート空間で、心から安らげる時間を提供します。"
+  },
+
+  "hero": {
+    "headline1": "痛みを手放し、",
+    "headline2": "本来のあなたへ。",
+    "subtext": "慢性的な肩こり、腰痛、自律神経の乱れ。\n表面的なマッサージではなく、根本原因にアプローチし、\n再発しない身体づくりをサポートします。",
+    "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=2070&auto=format&fit=crop",
+    "imageAlt": "リラックスできる施術空間"
+  },
+
+  "concept": {
+    "sectionTitle": "当院のこだわり",
+    "items": [
+      {
+        "title": "根本原因の徹底追及",
+        "description": "痛みの場所＝原因ではありません。丁寧なカウンセリングと検査で、姿勢や生活習慣から本当の原因を見つけ出します。",
+        "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "title": "痛みのない優しい施術",
+        "description": "バキバキ鳴らすような強い刺激は与えません。心地よい圧で筋膜や骨格を整え、深いリラックス状態へと導きます。",
+        "imageUrl": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?q=80&w=1974&auto=format&fit=crop"
+      },
+      {
+        "title": "完全個室のプライベート空間",
+        "description": "他のお客様の目を気にすることなく、あなただけの時間を。アロマの香りとヒーリング音楽で心から安らげる空間です。",
+        "imageUrl": "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?q=80&w=2070&auto=format&fit=crop"
+      }
+    ]
+  },
+
+  "menu": {
+    "sectionTitle": "施術メニュー",
+    "initialFeeNote": "初回はカウンセリング・検査のため、別途初診料2,200円と約30分のお時間を頂戴いたします。",
+    "items": [
+      {
+        "name": "全身根本改善コース",
+        "duration": "約60分",
+        "price": "8,800",
+        "description": "肩こり・腰痛などの慢性的な痛みにお悩みの方へ。骨盤矯正と筋膜リリースを組み合わせ、全身のバランスを整えます。",
+        "isRecommended": true
+      },
+      {
+        "name": "自律神経調整・リラックスコース",
+        "duration": "約90分",
+        "price": "12,000",
+        "description": "不眠、頭痛、慢性疲労にお悩みの方へ。頭蓋骨調整と内臓マニュピレーションで、深いリラクゼーションをもたらします。",
+        "isRecommended": false
+      },
+      {
+        "name": "産後骨盤矯正コース",
+        "duration": "約45分",
+        "price": "6,600",
+        "description": "産後の腰痛や体型の崩れが気になる方へ。開いた骨盤を優しく締め、産前の健康な身体へと戻していく専用プログラムです。",
+        "isRecommended": false
+      }
+    ]
+  },
+
+  "director": {
+    "sectionTitle": "院長挨拶",
+    "headingLine1": "「治す」のではなく、",
+    "headingLine2": "「治る身体」を創る。",
+    "name": "山田 太郎",
+    "title": "院長",
+    "qualifications": "国家資格 柔道整復師・鍼灸師 取得",
+    "message": [
+      "はじめまして。心和整体院 院長の山田太郎と申します。",
+      "私がこの業界に入ったきっかけは、自身の深刻な腰痛でした。様々な治療院に通っても良くならず、諦めかけていた時に出会ったのが、現在の施術法のベースとなる考え方です。",
+      "痛みは身体からの「SOSサイン」です。痛みのある場所だけを揉んでも、根本的な解決にはなりません。当院では、お一人おひとりの身体の声に耳を傾け、なぜその痛みが出ているのかを徹底的に探ります。",
+      "皆様が痛みや不調から解放され、笑顔で毎日を過ごせるよう、全力でサポートさせていただきます。どんな些細なことでも、お気軽にご相談ください。"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=1964&auto=format&fit=crop",
+    "imageAlt": "院長"
+  },
+
+  "access": {
+    "sectionTitle": "アクセス・店舗情報",
+    "postalCode": "〒150-0000",
+    "address": "東京都渋谷区〇〇 1-2-3 ヒーリングビル2F",
+    "nearestStation": "渋谷駅 東口より徒歩5分",
+    "phone": "03-1234-5678",
+    "hours": "9:00 - 20:00",
+    "closedDays": "水曜日・日曜日",
+    "parkingNote": "専用駐車場はございません。近隣のコインパーキングをご利用ください。（駐車券ご提示で一部負担いたします）",
+    "googleMapsEmbedUrl": ""
+  },
+
+  "contact": {
+    "sectionTitle": "ご予約・お問い合わせ",
+    "subtext": "ご予約やご相談は、WEBフォームまたはLINEより承っております。お気軽にご連絡ください。",
+    "lineUrl": "#",
+    "reservationFormUrl": "#",
+    "instagramUrl": "#"
+  }
+}
